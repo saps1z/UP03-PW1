@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\bin\Debug\net6.0\IShareConsoleApp.exe
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\bin\Debug\net6.0\IShareConsoleApp.deps.json
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\bin\Debug\net6.0\IShareConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\bin\Debug\net6.0\IShareConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\bin\Debug\net6.0\IShareConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\refint\IShareConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\IShareConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 5\IShareConsoleApp\obj\Debug\net6.0\ref\IShareConsoleApp.dll

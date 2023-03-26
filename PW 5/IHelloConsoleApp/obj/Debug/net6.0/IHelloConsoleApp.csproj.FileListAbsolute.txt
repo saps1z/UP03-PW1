@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\bin\Debug\net6.0\IHelloConsoleApp.exe
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\bin\Debug\net6.0\IHelloConsoleApp.deps.json
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\bin\Debug\net6.0\IHelloConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\bin\Debug\net6.0\IHelloConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\bin\Debug\net6.0\IHelloConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\refint\IHelloConsoleApp.dll
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\IHelloConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 5\IHelloConsoleApp\obj\Debug\net6.0\ref\IHelloConsoleApp.dll
