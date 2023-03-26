@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\bin\Debug\net6.0\VehicleConsoleApp.exe
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\bin\Debug\net6.0\VehicleConsoleApp.deps.json
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\bin\Debug\net6.0\VehicleConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\bin\Debug\net6.0\VehicleConsoleApp.dll
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\bin\Debug\net6.0\VehicleConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.dll
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\refint\VehicleConsoleApp.dll
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\VehicleConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 6\VehicleConsoleApp\obj\Debug\net6.0\ref\VehicleConsoleApp.dll

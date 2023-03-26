@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\bin\Debug\net6.0\MyMUSICCollectionConsoleApp.exe
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\bin\Debug\net6.0\MyMUSICCollectionConsoleApp.deps.json
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\bin\Debug\net6.0\MyMUSICCollectionConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\bin\Debug\net6.0\MyMUSICCollectionConsoleApp.dll
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\bin\Debug\net6.0\MyMUSICCollectionConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.dll
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\refint\MyMUSICCollectionConsoleApp.dll
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\MyMUSICCollectionConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 6\MyMUSICCollectionConsoleApp\obj\Debug\net6.0\ref\MyMUSICCollectionConsoleApp.dll

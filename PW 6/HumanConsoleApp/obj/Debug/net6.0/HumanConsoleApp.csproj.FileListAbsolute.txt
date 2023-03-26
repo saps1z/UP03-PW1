@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\bin\Debug\net6.0\HumanConsoleApp.exe
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\bin\Debug\net6.0\HumanConsoleApp.deps.json
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\bin\Debug\net6.0\HumanConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\bin\Debug\net6.0\HumanConsoleApp.dll
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\bin\Debug\net6.0\HumanConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.dll
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\refint\HumanConsoleApp.dll
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.pdb
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\HumanConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 6\HumanConsoleApp\obj\Debug\net6.0\ref\HumanConsoleApp.dll
