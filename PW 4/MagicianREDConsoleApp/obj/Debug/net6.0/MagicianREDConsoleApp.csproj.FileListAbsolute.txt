@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\bin\Debug\net6.0\MagicianREDConsoleApp.exe
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\bin\Debug\net6.0\MagicianREDConsoleApp.deps.json
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\bin\Debug\net6.0\MagicianREDConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\bin\Debug\net6.0\MagicianREDConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\bin\Debug\net6.0\MagicianREDConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\refint\MagicianREDConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\MagicianREDConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 3\MagicianREDConsoleApp\obj\Debug\net6.0\ref\MagicianREDConsoleApp.dll
