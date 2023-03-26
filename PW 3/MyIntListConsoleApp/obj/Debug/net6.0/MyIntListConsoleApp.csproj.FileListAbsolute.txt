@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\bin\Debug\net6.0\MyIntListConsoleApp.exe
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\bin\Debug\net6.0\MyIntListConsoleApp.deps.json
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\bin\Debug\net6.0\MyIntListConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\bin\Debug\net6.0\MyIntListConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\bin\Debug\net6.0\MyIntListConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\refint\MyIntListConsoleApp.dll
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\MyIntListConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 3\MyIntListConsoleApp\obj\Debug\net6.0\ref\MyIntListConsoleApp.dll

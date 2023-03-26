@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\bin\Debug\net6.0\GenericNumbersConsoleApp.exe
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\bin\Debug\net6.0\GenericNumbersConsoleApp.deps.json
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\bin\Debug\net6.0\GenericNumbersConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\bin\Debug\net6.0\GenericNumbersConsoleApp.dll
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\bin\Debug\net6.0\GenericNumbersConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.dll
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\refint\GenericNumbersConsoleApp.dll
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\GenericNumbersConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 3\GenericNumbersConsoleApp\obj\Debug\net6.0\ref\GenericNumbersConsoleApp.dll
