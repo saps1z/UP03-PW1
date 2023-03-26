@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\CeasarCypherConsoleApp\bin\Debug\net6.0\CeasarCypherConsoleApp.exe
+D:\Visual Studio\projects\CeasarCypherConsoleApp\bin\Debug\net6.0\CeasarCypherConsoleApp.deps.json
+D:\Visual Studio\projects\CeasarCypherConsoleApp\bin\Debug\net6.0\CeasarCypherConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\CeasarCypherConsoleApp\bin\Debug\net6.0\CeasarCypherConsoleApp.dll
+D:\Visual Studio\projects\CeasarCypherConsoleApp\bin\Debug\net6.0\CeasarCypherConsoleApp.pdb
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.dll
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\refint\CeasarCypherConsoleApp.dll
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.pdb
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\CeasarCypherConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\CeasarCypherConsoleApp\obj\Debug\net6.0\ref\CeasarCypherConsoleApp.dll

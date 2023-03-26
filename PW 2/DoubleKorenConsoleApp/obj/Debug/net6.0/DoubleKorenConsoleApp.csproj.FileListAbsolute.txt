@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\DoubleKorenConsoleApp\bin\Debug\net6.0\DoubleKorenConsoleApp.exe
+D:\Visual Studio\projects\DoubleKorenConsoleApp\bin\Debug\net6.0\DoubleKorenConsoleApp.deps.json
+D:\Visual Studio\projects\DoubleKorenConsoleApp\bin\Debug\net6.0\DoubleKorenConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\DoubleKorenConsoleApp\bin\Debug\net6.0\DoubleKorenConsoleApp.dll
+D:\Visual Studio\projects\DoubleKorenConsoleApp\bin\Debug\net6.0\DoubleKorenConsoleApp.pdb
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.dll
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\refint\DoubleKorenConsoleApp.dll
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.pdb
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\DoubleKorenConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\DoubleKorenConsoleApp\obj\Debug\net6.0\ref\DoubleKorenConsoleApp.dll

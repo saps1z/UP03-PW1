@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\NBoolConsoleApp\bin\Debug\net6.0\NBoolConsoleApp.exe
+D:\Visual Studio\projects\NBoolConsoleApp\bin\Debug\net6.0\NBoolConsoleApp.deps.json
+D:\Visual Studio\projects\NBoolConsoleApp\bin\Debug\net6.0\NBoolConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\NBoolConsoleApp\bin\Debug\net6.0\NBoolConsoleApp.dll
+D:\Visual Studio\projects\NBoolConsoleApp\bin\Debug\net6.0\NBoolConsoleApp.pdb
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.dll
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\refint\NBoolConsoleApp.dll
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.pdb
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\NBoolConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\NBoolConsoleApp\obj\Debug\net6.0\ref\NBoolConsoleApp.dll
