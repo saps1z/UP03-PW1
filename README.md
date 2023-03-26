@@ -2,7 +2,9 @@
 Uchebnaya Praktika Prakticheskie Raboty.
 
 PW1 - Prakticheskaya #1 (Done)
-PW2 - Prakticheskaya #2 (Soon)
-PW3 - Prakticheskaya #3 (Soon)
-PW4 - Prakticheskaya #4 (Soon)
-PW5 - Prakticheskaya #5 (Soon)
+PW2 - Prakticheskaya #2 (Done)
+PW3 - Prakticheskaya #3 (Done)
+PW4 - Prakticheskaya #4 (Done)
+PW5 - Prakticheskaya #5 (Done BETA)
+
+That's kinda messy here, i'll make it nicely soon as possible.
