@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\bin\Debug\net6.0\SQLCommandConsoleApp.exe
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\bin\Debug\net6.0\SQLCommandConsoleApp.deps.json
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\bin\Debug\net6.0\SQLCommandConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\bin\Debug\net6.0\SQLCommandConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\bin\Debug\net6.0\SQLCommandConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\refint\SQLCommandConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\SQLCommandConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 3\SQLCommandConsoleApp\obj\Debug\net6.0\ref\SQLCommandConsoleApp.dll

@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\bin\Debug\net6.0\SMSMessageConsoleApp.exe
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\bin\Debug\net6.0\SMSMessageConsoleApp.deps.json
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\bin\Debug\net6.0\SMSMessageConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\bin\Debug\net6.0\SMSMessageConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\bin\Debug\net6.0\SMSMessageConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\refint\SMSMessageConsoleApp.dll
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.pdb
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\SMSMessageConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 3\SMSMessageConsoleApp\obj\Debug\net6.0\ref\SMSMessageConsoleApp.dll
