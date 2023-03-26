@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\bin\Debug\net6.0\AdoptmeConsoleApp.exe
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\bin\Debug\net6.0\AdoptmeConsoleApp.deps.json
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\bin\Debug\net6.0\AdoptmeConsoleApp.runtimeconfig.json
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\bin\Debug\net6.0\AdoptmeConsoleApp.dll
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\bin\Debug\net6.0\AdoptmeConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.AssemblyInfo.cs
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.dll
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\refint\AdoptmeConsoleApp.dll
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.pdb
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\AdoptmeConsoleApp.genruntimeconfig.cache
+D:\Visual Studio\projects\PW 5\AdoptmeConsoleApp\obj\Debug\net6.0\ref\AdoptmeConsoleApp.dll
